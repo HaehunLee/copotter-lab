@@ -46,14 +46,23 @@
 
 ---
 
+## Protection
+
+- git Branch에 일련의 규칙을 심어두어, merge 작업 등에 있어서 관리를 할 수 있게해주는 기능
+  <img src="images/pr-md-03.png" alt="img_3" />
+
+---
+
 ## How ?
 
 <ol>
-    <li>Fork, Clone</li>
+    <li>Fork or Clone</li>
     <li>Checkout Branch</li>
     <li>Develope</li>
     <li>Commit & Push</li>
     <li>Pull Request</li>
+    <li>Reviewing</li>
+    <li><a href="https://im-developer.tistory.com/182">Merge</a></li>
 </ol>
 
 ---
@@ -71,7 +80,7 @@
 >
 
 [owner-url]: https://img.shields.io/badge/owner-1-black
-[issues-url]: https://img.shields.io/badge/contributor-5-blue
-[issues-shield]: https://img.shields.io/badge/contributor-5-blue
-[version-shield]: https://img.shields.io/badge/contributor-5-blue
+[issues-url]: https://img.shields.io/badge/contributor-1-blue
+[issues-shield]: https://img.shields.io/badge/contributor-1-blue
+[version-shield]: https://img.shields.io/badge/contributor-1-blue
 [contributors-shield]: https://img.shields.io/badge/owner-1-black
