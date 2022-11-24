@@ -24,5 +24,3 @@
 [issues-url]: https://img.shields.io/badge/contributor-2-blue
 [issues-shield]: https://img.shields.io/badge/contributor-2-blue
 [contributors-shield]: https://img.shields.io/badge/owner-1-black
-
-merge?
