@@ -2,7 +2,7 @@ change name
 
 python binary search
 
-```python
+```javascript
 
 def binary():
   left = 0
